@@ -11,7 +11,6 @@
 ### Featured Projects
 - 🔍 **[WebHealth](https://web-health-eta.vercel.app/)** — Full-stack website health auditing platform (React, Node/Express, Lighthouse, security scanning)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-pandey-a74716199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-pandey" height="30" width="40" /></a>
