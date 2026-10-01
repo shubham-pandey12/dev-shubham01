@@ -1,33 +1,65 @@
+<h1 align="center">Hi, I'm Shubham 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
-<h3 align="center">Senior Full-Stack Engineer | React.js · Node.js · TypeScript</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-shubham01&label=Profile%20views&color=0e75b6&style=flat" alt="dev-shubham01" /> </p>
-- 💼 Currently **Software Development Engineer 2 @ Moresand Technologies**, building full-stack platforms end-to-end
-- 🛠️ Core stack: **React.js, Next.js, Node.js, Express.js, TypeScript, Java**
-- ☁️ Comfortable across the stack — API design, database schema design, and cloud deployment (**AWS, Docker, CI/CD**)
-- 🌱 Currently sharpening system design and backend architecture skills
-- 🤝 Open to full-stack / senior engineering opportunities
-- 👨‍💻 Portfolio: [shubham-p01.netlify.app](https://shubham-p01.netlify.app/)
-- 📫 Reach me at **mr.pshubham@gmail.com**
-### Featured Projects
-- 🔍 **[WebHealth](https://web-health-eta.vercel.app/)** — Full-stack website health auditing platform (React, Node/Express, Lighthouse, security scanning)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shubham-pandey-a74716199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-pandey" height="30" width="40" /></a>
+<p align="center">
+<b>Software Engineer | Full-Stack Developer | Problem Solver</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=450&lines=Software+Engineer+(3%2B+Years);Full+Stack+Developer+(MERN+%2F+TS);Scalable+Systems+%26+APIs;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ashish-kumar-780a3a1a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/mcash09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:mcash0907@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mcash009.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Experience**: Software Engineer with **3+ years of experience** building scalable full-stack web applications, resilient backend architectures, and high-performance user interfaces.
+- 🎓 **Background**: B.Tech in Computer Science from **IIIT Vadodara**.
+- ⚙️ **Core Focus**: High-throughput RESTful APIs, distributed systems, state management, and database optimization.
+- 💡 **Problem Solving**: Strong algorithmic foundation in **C++** with a background in competitive programming.
+- ⚡ **Fun Fact**: Outside of tech, I'm an avid anime enthusiast 🎌 and competitive FPS gamer 🎮.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,git,github,postman,tailwind,linux&perline=8" alt="Tech Stack" />
+</p>
+
+<details>
+<summary><b>📂 Categorized Skills Breakdown</b></summary>
+<br/>
+
+- **Languages:** `Java`, `JavaScript (ES6+)`, `TypeScript`, `HTML5`, `CSS3/Sass`
+- **Frontend:** `React.js`, `Next.js`, `Redux Toolkit`, `Tailwind CSS`
+- **Backend:** `Node.js`, `Express.js`, `REST APIs`, `Microservices`
+- **Databases & Cache:** `MongoDB`, `PostgreSQL`, `Redis`
+- **DevOps & Tooling:** `Docker`, `Git`, `GitHub Actions`, `Postman`, `Linux`
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=mcash09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=mcash09&theme=tokyonight&hide_border=true" height="155" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mcash09&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mcash09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
